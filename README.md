@@ -4,7 +4,7 @@ A command-line interface to interact with Request Finance, for developers.
 
 ## Install
 ```bash
-git clone git@github.com:benjlevesque/rf.git
+git clone git@github.com:RequestFinance/rf.git
 cd rf
 pnpm install
 pnpm build
